@@ -61,4 +61,6 @@ fun details(){
     else{
         println("The two names are not the same")
     }
-}
+//}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
+
+//    https://github.com/sayajona/Siryear.git
